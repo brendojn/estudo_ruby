@@ -1,83 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d784f081-4758-4179-ba05-69a353390e2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../obc_ruby/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../obc_ruby/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../obc_ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../obc_ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/obc_ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/obc_ruby.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/block.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/block.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/desafio2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/desafio2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/lambda.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/lambda.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/mixins.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/mixins.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_1/namespace.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_1/namespace.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/desafio2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/desafio2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/method_missing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/method_missing.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/private.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/private.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/protected.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/protected.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_2/self.rb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_2/self.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/desafio1.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/desafio1.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/desafio2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/desafio2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/desafio3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/desafio3.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/each_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/each_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/each_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/each_hash.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/map.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/map.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/select_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/select_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/select_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/collections/select_hash.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/case.rb" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/case.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/else.rb" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/else.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/elsif.rb" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/elsif.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/if.rb" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/if.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/unless.rb" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/unless.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gems/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/gems/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gems/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gems/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gems/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/gems/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gems/os.rb" beforeDir="false" afterPath="$PROJECT_DIR$/gems/os.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/age.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/age.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/for.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/for.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/loop.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/loop.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/times.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/times.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterações/while.rb" beforeDir="false" afterPath="$PROJECT_DIR$/iterações/while.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metodos/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/metodos/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metodos/method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/metodos/method.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metodos/return.rb" beforeDir="false" afterPath="$PROJECT_DIR$/metodos/return.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_1/animal.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_1/animal.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_1/computer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_1/computer.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_1/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_1/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_1/polymorphic.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_1/polymorphic.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/animal.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/animal.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/app.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/atributos.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/atributos.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/cachorro.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/cachorro.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/construtor.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/construtor.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/desafio/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/desafio/app.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/desafio/mercado.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/desafio/mercado.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/desafio/produto.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/desafio/produto.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/escopo_variaveis/global.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/escopo_variaveis/global.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/escopo_variaveis/instancia.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/escopo_variaveis/instancia.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/escopo_variaveis/local.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/escopo_variaveis/local.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo_2/escopo_variaveis/variaveis.rb" beforeDir="false" afterPath="$PROJECT_DIR$/poo_2/escopo_variaveis/variaveis.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/https.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/https.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/read.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/read.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/shopping-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/shopping-list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/web_get.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/web_get.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/web_post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/web_post.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/web_scrap.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/web_scrap.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-final/write.rb" beforeDir="false" afterPath="$PROJECT_DIR$/project-final/write.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/project/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simples/calc.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simples/calc.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simples/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simples/desafio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simples/desafio2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simples/desafio2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simples/hello.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simples/hello.rb" afterDir="false" />
-    </list>
+    <list default="true" id="d784f081-4758-4179-ba05-69a353390e2d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/poo_1/computer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -196,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="1299" />
@@ -215,6 +139,11 @@
             <path>
               <item name="ruby_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_study" type="462c0819:PsiDirectoryNode" />
+              <item name="poo_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -379,17 +308,18 @@
       <workItem from="1544370831069" duration="7939000" />
       <workItem from="1544409260586" duration="1699000" />
       <workItem from="1546218161208" duration="1875000" />
+      <workItem from="1546223588716" duration="254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64898000" />
+    <option name="totallyTimeSpent" value="65152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20510775" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20830008" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.275" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -758,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/poo_1/computer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>

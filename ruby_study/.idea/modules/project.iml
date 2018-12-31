@@ -4,8 +4,10 @@
     <shared />
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="RVM: ruby-2.5.1" jdkType="RUBY_SDK" />
+    <content url="file://$MODULE_DIR$/../../project" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="RubyModuleProperties">
+    <option name="autoCreated" value="true" />
   </component>
 </module>

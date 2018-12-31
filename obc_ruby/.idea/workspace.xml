@@ -118,10 +118,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1433" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
+    <option name="y" value="-2" />
+    <option name="width" value="1366" />
+    <option name="height" value="770" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,11 +133,6 @@
             <path>
               <item name="obc_ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="obc_ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby_study" type="462c0819:PsiDirectoryNode" />
-              <item name="project-final" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,20 +295,20 @@
       <workItem from="1544321930288" duration="3930000" />
       <workItem from="1544370831069" duration="7939000" />
       <workItem from="1544409260586" duration="1699000" />
-      <workItem from="1544411492567" duration="5876000" />
+      <workItem from="1544411492567" duration="6918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68899000" />
+    <option name="totallyTimeSpent" value="69941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1433" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20510775" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20510775" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.27435064" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.27435064" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
